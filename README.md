@@ -12,7 +12,7 @@ Copy and paste the content into tools like this [http://geojson.io/](http://geoj
 
 `polska-wojewodztwa.geojson` contains all Poland's voivodeships together.
 
-The `extract_dzielnice.py` script extracts each of `polska-wojewodztwa.geojson` voivodeships into separate file.
+The `extract_voivodships.py` script extracts each of `polska-wojewodztwa.geojson` voivodeships into separate file.
 The script requires `pip install geojson` (https://pypi.org/project/geojson/)
 
 
